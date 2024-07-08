@@ -1,0 +1,16 @@
+{
+    "categorys":[
+        {
+            "link":"link-1",
+            "bgimage":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/img_3banner_1.jpg?1706429532485"
+        },
+        {
+            "link":"link-2",
+            "bgimage":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/img_3banner_2.jpg?1706429532485"
+        },
+        {
+            "link":"link-3",
+            "bgimage":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/img_3banner_3.jpg?1706429532485"
+        }
+    ]
+}

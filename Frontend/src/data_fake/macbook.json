@@ -1,0 +1,68 @@
+{
+    "macbooks":[
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/210510031244-28122.png?v=1681831204720",
+            "giagiam":"18.990.000₫",
+            "gia":"28.990.000₫",
+            "ten":"MacBook Air 13 inch M1 LATE 2020 256GB",
+            "link":"1"
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/220607112243-macbook-air-m2-2022.png?v=1681830958410",
+            "giagiam":"26.790.000₫",
+            "gia":"32.990.000₫",
+            "ten":"MacBook Air M2 13 inch 2022 8CPU 8GPU 256GB| RAM 8GB Chính hãng VN ",
+            "link":"2"
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/210510031615-28130.png?v=1681830726333",
+            "giagiam":"27.990.000₫",
+            "gia":"34.990.000₫",
+            "ten":"MacBook Air 13 inch M1 LATE 2020 512GB - New seal Hàng Chính Hãng VN ",
+            "link":"3"
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/210510030751-39792.png?v=1681830475937",
+            "giagiam":"29.490.000₫",
+            "gia":"34.590.000₫",
+            "ten":"MacBook Air 13 inch M1 LATE 2020 256GB l RAM 16GB- New seal Hàng Chính Hãng VN",
+            "link":"4"
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/220709095928-macbook-air-m2-2022.jpg?v=1681830207560",
+            "giagiam":"32.490.000₫",
+            "gia":"36.990.000₫",
+            "ten":"Macbook Air M2 13 inch 2022 8CPU 8GPU 256GB| RAM 16GB Chính hãng VN",
+            "link":"5"
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/220607113759-macbook-air-m2-2022.png?v=1681829913140",
+            "giagiam":"32.490.000₫",
+            "gia":"39.390.000₫",
+            "ten":"MacBook Air M2 13inch 2022 8CPU 10GPU 512GB| RAM 8GB Chính hãng VN",
+            "link":"6"
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/mb-air-230304084301-230304204301.png?v=1681829617300",
+            "giagiam":"34.490.000₫",
+            "gia":"45.588.000₫",
+            "ten":"MacBook Air 13inch M1 LATE 2020 512GB l RAM 16GB - New seal Hàng Chính Hãng VN",
+            "link":"7"
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/9.png?v=1681829396207",
+            "giagiam":"34.490.000₫",
+            "gia":"37.990.000₫",
+            "ten":"MacBook Air 13 inch M1 LATE 2020 7GPU 512GB l RAM 16GB",
+            "link":"8"
+
+        }
+    ]
+}

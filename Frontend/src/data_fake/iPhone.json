@@ -1,0 +1,77 @@
+{
+    "iPhones":[
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/230225043834-z4137191676218-0774-1946c4ed-4d0e-48f8-a027-cd204a125cc2-d68fe73b-e0d0-4760-851c-921a707306d3-426c81ba-21bc-4a10-8759-2715fb3b335c-d780605a-98f1-4219-8960-1971fd9b605c.jpg?v=1681769076287",
+            "giagiam":"25.990.000₫",
+            "gia":"27.550.000₫",
+            "ten":"iPhone 14 256GB - Chính hãng VN/A",
+            "link":"1",
+            "id":1
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/230310085958-thiet-ke-chua-co-te-f3936e7f-c048-48bf-b075-c26f1221016d-b6e7e3f2-0c77-4905-b427-0d19126bac8c-ced22c85-21b8-4e51-94d3-b4bcecc9b174.jpg?v=1681768931267",
+            "giagiam":"27.990.000₫",
+            "gia":"33.990.000₫",
+            "ten":"iPhone 14 512GB - Chính hãng VN/A",
+            "link":"2",
+            "id":2
+            
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/230225043800-z4137191702518-058b-2b9501d4-15a2-4847-8eaa-24e0234601e0-3be190e2-4b58-4bb1-a842-e3405f90344f.jpg?v=1681768597323",
+            "giagiam":"21.490.000₫",
+            "gia":"27.990.000₫",
+            "ten":"iPhone 14 Plus 128GB - Chính hãng VN/A",
+            "link":"3",
+            "id":3
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/230225043834-z4137191676218-0774-1946c4ed-4d0e-48f8-a027-cd204a125cc2.jpg?v=1681768443007",
+            "giagiam":"24.490.000₫",
+            "gia":"30.990.000₫",
+            "ten":"iPhone 14 Plus 256GB - Chính hãng VN/A",
+            "link":"4",
+            "id":4
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/14-plus-xanh-221119023152-221119.jpg?v=1681764957017",
+            "giagiam":"29.990.000₫",
+            "gia":"36.990.000₫",
+            "ten":"iPhone 14 Plus 512GB - Chính hãng VN/A",
+            "link":"5",
+            "id":5
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/z4024574722204-0b2d64e695f486883-20543c81-eee6-4b81-9fc4-2580ae902ff1.jpg?v=1681686601387",
+            "giagiam":"26.890.000₫",
+            "gia":"34.990.000₫",
+            "ten":"iPhone 14 Pro Max 128GB - Chính hãng VN/A",
+            "link":"6",
+            "id":6
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/z4015264626725-adedc0e08392723b0.jpg?v=1681686458917",
+            "giagiam":"29.690.000₫",
+            "gia":"37.990.000₫",
+            "ten":"iPhone 14 Pro Max 256GB - Chính hãng VN/A",
+            "link":"7",
+            "id":7
+
+        },
+        {
+            "hinh":"https://bizweb.dktcdn.net/thumb/large/100/480/632/products/z4024574722204-0b2d64e695f486883.jpg?v=1681686257597",
+            "giagiam":"35.790.000₫",
+            "gia":"43.990.000₫",
+            "ten":"iPhone 14 Pro Max 512GB - Chính hãng VN/A",
+            "link":"8",
+            "id":8
+
+        }
+    ]
+}

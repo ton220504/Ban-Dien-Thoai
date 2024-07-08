@@ -1,0 +1,34 @@
+{
+    "DanhMucs":[
+        {
+            "image":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/cate_1.png?1706429532485",
+            "name":"iPhone",
+            "link":"1"
+        },
+        {
+            "image":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/cate_2.png?1706429532485",
+            "name":"Mac",
+            "link":"2"
+        },
+        {
+            "image":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/cate_3.png?1706429532485",
+            "name":"iPad",
+            "link":"3"
+        },
+        {
+            "image":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/cate_4.png?1706429532485",
+            "name":"Watch",
+            "link":"4"
+        },
+        {
+            "image":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/cate_5.png?1706429532485",
+            "name":"Âm thanh",
+            "link":"5"
+        },
+        {
+            "image":"https://bizweb.dktcdn.net/100/480/632/themes/900313/assets/cate_6.png?1706429532485",
+            "name":"Phụ kiện",
+            "link":"6"
+        }
+    ]
+}
